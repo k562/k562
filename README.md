@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://k562.com)
+[![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
+
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
 <h3 align="center">I am an android developer from Noida (India)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >
