@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif)
 
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
-<h3 align="center">I am an android developer from Noida (India)</h3>
+<h3 align="center">I am an FrontEnd + Backend and Android developer from Noida (India)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >
 
 
