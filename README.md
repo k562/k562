@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--74239093851038054%2F&psig=AOvVaw1xR1A5WrLPWeSX8C4q1cnS&ust=1736329994601000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjDrbWr44oDFQAAAAAdAAAAABAJ)
+![MasterHead](<iframe src="https://giphy.com/embed/qMGOIRnDWIUUM4htkD" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/solturo-tech-technology-solturocom-qMGOIRnDWIUUM4htkD">via GIPHY</a></p>)
 
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
 <h3 align="center">I am an android developer from Noida (India)</h3>
