@@ -1,4 +1,4 @@
-![MasterHead]("https://giphy.com/embed/qMGOIRnDWIUUM4htkD](https://giphy.com/embed/YYW0hHizzIOrlhimPG")
+![MasterHead](https://giphy.com/embed/qMGOIRnDWIUUM4htkD](https://giphy.com/embed/YYW0hHizzIOrlhimPG)
 
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
 <h3 align="center">I am an android developer from Noida (India)</h3>
