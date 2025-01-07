@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-development&psig=AOvVaw1-dk1RrWZCXMnBcusF9G75&ust=1736329785491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiw9dGq44oDFQAAAAAdAAAAABAE)
+![MasterHead]([https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-development&psig=AOvVaw1-dk1RrWZCXMnBcusF9G75&ust=1736329785491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiw9dGq44oDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fsoftware-engineering-gifs&psig=AOvVaw1-dk1RrWZCXMnBcusF9G75&ust=1736329785491000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiw9dGq44oDFQAAAAAdAAAAABAK))
 
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
 <h3 align="center">I am an android developer from Noida (India)</h3>
