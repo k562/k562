@@ -1,4 +1,4 @@
-![MasterHead](<iframe src="https://giphy.com/embed/qMGOIRnDWIUUM4htkD" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/solturo-tech-technology-solturocom-qMGOIRnDWIUUM4htkD">via GIPHY</a></p>)
+![MasterHead](<iframe src="https://giphy.com/embed/qMGOIRnDWIUUM4htkD")
 
 <h1 align = "center"> Hi 👋, I'm Kaushik Karan Singh </h1>
 <h3 align="center">I am an android developer from Noida (India)</h3>
